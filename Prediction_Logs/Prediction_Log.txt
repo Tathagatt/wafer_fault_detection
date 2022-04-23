@@ -1,0 +1,129 @@
+2022-04-14/21:28:59		Start of Validation on files for prediction!!
+2022-04-14/21:29:04		Raw Data Validation Complete!!
+2022-04-14/21:29:04		Starting Data Transforamtion!!
+2022-04-14/21:29:08		DataTransformation Completed!!!
+2022-04-14/21:29:08		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-04-14/21:29:11		Table creation Completed!!
+2022-04-14/21:29:11		Insertion of Data into Table started!!!!
+2022-04-14/21:29:16		Insertion in Table completed!!!
+2022-04-14/21:29:16		Deleting Good Data Folder!!!
+2022-04-14/21:29:16		Good_Data folder deleted!!!
+2022-04-14/21:29:16		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-04-14/21:29:16		Bad files moved to archive!! Bad folder Deleted!!
+2022-04-14/21:29:16		Validation Operation completed!!
+2022-04-14/21:29:16		Extracting csv file from table
+2022-04-14/21:29:16		Start of Prediction
+2022-04-14/21:29:16		Entered the get_data method of the Data_Getter class
+2022-04-14/21:29:17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-14/21:29:17		Entered the is_null_present method of the Preprocessor class
+2022-04-14/21:29:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-04-14/21:29:17		Entered the impute_missing_values method of the Preprocessor class
+2022-04-14/21:29:17		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-04-14/21:29:17		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-14/21:29:19		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-14/21:29:19		Entered the remove_columns method of the Preprocessor class
+2022-04-14/21:29:19		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-14/21:29:19		Entered the load_model method of the File_Operation class
+2022-04-14/21:29:19		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2022-04-14/21:29:19		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-14/21:29:19		Error occured while running the prediction!! Error:: 
+2022-04-14/22:19:01		Start of Validation on files for prediction!!
+2022-04-14/22:20:49		Start of Validation on files for prediction!!
+2022-04-14/22:20:53		Raw Data Validation Complete!!
+2022-04-14/22:20:53		Starting Data Transforamtion!!
+2022-04-14/22:20:57		DataTransformation Completed!!!
+2022-04-14/22:20:57		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-04-14/22:21:00		Table creation Completed!!
+2022-04-14/22:21:00		Insertion of Data into Table started!!!!
+2022-04-14/22:21:04		Insertion in Table completed!!!
+2022-04-14/22:21:04		Deleting Good Data Folder!!!
+2022-04-14/22:21:04		Good_Data folder deleted!!!
+2022-04-14/22:21:04		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-04-14/22:21:04		Bad files moved to archive!! Bad folder Deleted!!
+2022-04-14/22:21:04		Validation Operation completed!!
+2022-04-14/22:21:04		Extracting csv file from table
+2022-04-14/22:21:05		Start of Prediction
+2022-04-14/22:21:05		Entered the get_data method of the Data_Getter class
+2022-04-14/22:21:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-14/22:21:05		Entered the is_null_present method of the Preprocessor class
+2022-04-14/22:21:05		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-04-14/22:21:05		Entered the impute_missing_values method of the Preprocessor class
+2022-04-14/22:21:06		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-04-14/22:21:06		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-14/22:21:07		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-14/22:21:07		Entered the remove_columns method of the Preprocessor class
+2022-04-14/22:21:07		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-14/22:21:07		Entered the load_model method of the File_Operation class
+2022-04-14/22:21:07		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2022-04-14/22:21:07		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-14/22:21:07		Error occured while running the prediction!! Error:: 
+2022-04-23/15:14:23		Start of Validation on files for prediction!!
+2022-04-23/15:14:27		Raw Data Validation Complete!!
+2022-04-23/15:14:27		Starting Data Transforamtion!!
+2022-04-23/15:14:32		DataTransformation Completed!!!
+2022-04-23/15:14:32		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-04-23/15:14:36		Table creation Completed!!
+2022-04-23/15:14:36		Insertion of Data into Table started!!!!
+2022-04-23/15:14:41		Insertion in Table completed!!!
+2022-04-23/15:14:41		Deleting Good Data Folder!!!
+2022-04-23/15:14:41		Good_Data folder deleted!!!
+2022-04-23/15:14:41		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-04-23/15:14:41		Bad files moved to archive!! Bad folder Deleted!!
+2022-04-23/15:14:41		Validation Operation completed!!
+2022-04-23/15:14:41		Extracting csv file from table
+2022-04-23/15:14:42		Start of Prediction
+2022-04-23/15:14:42		Entered the get_data method of the Data_Getter class
+2022-04-23/15:14:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-23/15:14:42		Entered the is_null_present method of the Preprocessor class
+2022-04-23/15:14:42		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-04-23/15:14:42		Entered the impute_missing_values method of the Preprocessor class
+2022-04-23/15:14:43		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-04-23/15:14:43		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-23/15:14:44		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-23/15:14:44		Entered the remove_columns method of the Preprocessor class
+2022-04-23/15:14:44		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-23/15:14:44		Entered the load_model method of the File_Operation class
+2022-04-23/15:14:44		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2022-04-23/15:14:44		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2022-04-23/15:14:44		Error occured while running the prediction!! Error:: 
+2022-04-23/18:16:34		Start of Validation on files for prediction!!
+2022-04-23/18:16:36		Start of Validation on files for prediction!!
+2022-04-23/18:16:40		Raw Data Validation Complete!!
+2022-04-23/18:16:40		Starting Data Transforamtion!!
+2022-04-23/18:16:44		DataTransformation Completed!!!
+2022-04-23/18:16:44		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-04-23/18:16:47		Table creation Completed!!
+2022-04-23/18:16:47		Insertion of Data into Table started!!!!
+2022-04-23/18:16:51		Insertion in Table completed!!!
+2022-04-23/18:16:51		Deleting Good Data Folder!!!
+2022-04-23/18:16:51		Good_Data folder deleted!!!
+2022-04-23/18:16:51		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-04-23/18:16:51		Bad files moved to archive!! Bad folder Deleted!!
+2022-04-23/18:16:51		Validation Operation completed!!
+2022-04-23/18:16:51		Extracting csv file from table
+2022-04-23/18:16:52		Start of Prediction
+2022-04-23/18:16:52		Entered the get_data method of the Data_Getter class
+2022-04-23/18:16:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-04-23/18:16:52		Entered the is_null_present method of the Preprocessor class
+2022-04-23/18:16:52		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-04-23/18:16:52		Entered the impute_missing_values method of the Preprocessor class
+2022-04-23/18:16:52		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-04-23/18:16:52		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-23/18:16:54		Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2022-04-23/18:16:54		Entered the remove_columns method of the Preprocessor class
+2022-04-23/18:16:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-04-23/18:16:54		Entered the load_model method of the File_Operation class
+2022-04-23/18:16:54		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-04-23/18:16:54		Entered the find_correct_model_file method of the File_Operation class
+2022-04-23/18:16:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-23/18:16:54		Entered the load_model method of the File_Operation class
+2022-04-23/18:16:54		Model File RandomForest0 loaded. Exited the load_model method of the Model_Finder class
+2022-04-23/18:16:54		Entered the find_correct_model_file method of the File_Operation class
+2022-04-23/18:16:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-23/18:16:54		Entered the load_model method of the File_Operation class
+2022-04-23/18:16:54		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2022-04-23/18:16:54		Entered the find_correct_model_file method of the File_Operation class
+2022-04-23/18:16:54		Exited the find_correct_model_file method of the Model_Finder class.
+2022-04-23/18:16:54		Entered the load_model method of the File_Operation class
+2022-04-23/18:16:54		Model File RandomForest2 loaded. Exited the load_model method of the Model_Finder class
+2022-04-23/18:16:54		End of Prediction
